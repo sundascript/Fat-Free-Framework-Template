@@ -42,6 +42,7 @@ you can add more custom ini file by editing file `app/bootstrap.php`
 Feel free to move `index.php` and `.htaccess` file from public folder to master root
 
 to make change this, simply follow this step
+
 1. move the two file `index.php` and `.htaccess`
 2. edit `index.php`
 3. change 
