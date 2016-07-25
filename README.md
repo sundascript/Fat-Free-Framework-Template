@@ -1,6 +1,6 @@
-# Fat-Free-Framework-Template
+# Fat Free Framework Template
 
-a boilerplate template for fat free framework
+an instant MVC boilerplate template for fat free framework
 
 ## How to use
 
