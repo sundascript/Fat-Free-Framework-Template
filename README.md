@@ -5,7 +5,7 @@ a boilerplate template for fat free framework
 ## How to use
 
 1. Download zip file to your local machine
-2. Extract from `/src/` folder as your root folder
+2. Extract from `/src/` folder to your root folder
 3. use "composer update" to install vendor script
 4. run app from `/public/` folder
 
